@@ -1,6 +1,9 @@
 @import './components/App/App';
 @import './components/Post/Post';
 @import './components/home/home';
+@import './components/counterControl/counterControl';
+@import './components/counterOutput/counterOutput';
+@import './components/redux/ReduxComponent';
 
 body {
   margin: 0;

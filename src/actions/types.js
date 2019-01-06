@@ -1,0 +1,1 @@
+export const CHANGE_OPACITY = 'change_opacity';
