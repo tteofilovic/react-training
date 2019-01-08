@@ -26,7 +26,7 @@ class ReduxComponent extends Component {
           <div className="button-background">
             <button 
             style={{...this.buttonStyle, 
-              opacity: this.props.opacity.opacity }}
+              opacity: this.props.opacity }}
             onClick={this.handleClick}>Change my opacity</button>
           </div>
         </div>
